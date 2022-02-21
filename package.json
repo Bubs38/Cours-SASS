@@ -1,0 +1,20 @@
+{
+  "name": "cours-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch ./main.scss:./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bubs38/Cours-SASS.git"
+  },
+  "author": "Bubs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bubs38/Cours-SASS/issues"
+  },
+  "homepage": "https://github.com/Bubs38/Cours-SASS#readme"
+}
